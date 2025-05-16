@@ -11,12 +11,7 @@ This repository implements a **stacking regressor** for regression tasks, combin
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Dataset](#dataset)
-- [Usage](#usage)
-  - [Running the Example](#running-the-example)
-  - [Using Your Own Dataset](#using-your-own-dataset)
-- [Code Structure](#code-structure)
-- [Evaluation](#evaluation)
+
 
 
 ## Project Overview
